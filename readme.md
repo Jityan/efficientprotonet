@@ -27,9 +27,9 @@ The code is tested on Windows 10 with Anaconda3 and following packages:
     - **Omniglot**: the download for Omniglot is automatic when the script executed.
 
 ## Extract Features
-1. The extracted features can be downloaded from here : (TBA) or
+1. The extracted features can be downloaded from [here](https://drive.google.com/drive/folders/1xsFs5n_K12l-b2S0rDiprOYPRTrVK90d?usp=share_link) or
 
-2. [Optional] The pretrained weights for EfficientNet-B0 can be downloaded from here: (TBA) and run the below command extract the feature vectors, NAME decide the dataset and PATH define the location to store the extracted features. <br/>
+2. [Optional] The pretrained weights for EfficientNet-B0 can be downloaded from here: [*mini*ImageNet](https://drive.google.com/file/d/1oKQVT8uRVb0L0mgwUHj89GyVzAHm7OFs/view?usp=share_link), [*tiered*ImageNet](https://drive.google.com/file/d/1OSI6zNsa82d5NzA8asJAZFJSEcpn8txt/view?usp=sharing), and [other datasets](https://drive.google.com/file/d/1G0Q-3gTlvDEBULdbrOoasgLmGFTqxSfz/view?usp=share_link). Run the below command extract the feature vectors, NAME decide the dataset and PATH define the location to store the extracted features. <br/>
     ```
     python preprocess.py --dataset NAME --save-path PATH
     ```
@@ -78,7 +78,7 @@ If you find this repo useful for your research, please consider citing the paper
 ## Contacts
 For any questions, please contact: <br/>
 
-Jit Yan Lim (1141124378@student.mmu.edu.my) <br/>
+Jit Yan Lim (lim.jityan@mmu.edu.my) <br/>
 Kian Ming Lim (kmlim@mmu.edu.my)
 
 ## Acknowlegements

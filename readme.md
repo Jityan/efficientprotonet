@@ -69,17 +69,15 @@ If you find this repo useful for your research, please consider citing the paper
   issn = {0925-2312},
   doi = {https://doi.org/10.1016/j.neucom.2021.06.090},
   url = {https://www.sciencedirect.com/science/article/pii/S0925231221010262},
-  author = {Jit Yan Lim and Kian Ming Lim and Shih Yin Ooi and Chin Poo Lee},
-  keywords = {Few-shot learning, Meta learning, EfficientNet, Prototypical network, Transfer learning, Knowledge distillation},
-  abstract = {The focus of recent few-shot learning research has been on the development of learning methods that can quickly adapt to unseen tasks with small amounts of data and low computational cost. In order to achieve higher performance in few-shot learning tasks, the generalizability of the method is essential to enable it generalize well from seen tasks to unseen tasks with limited number of samples. In this work, we investigate a new metric-based few-shot learning framework which transfers the knowledge from another effective classification model to produce well generalized embedding and improve the effectiveness in handling unseen tasks. The idea of our proposed Efficient-PrototypicalNet involves transfer learning, knowledge distillation, and few-shot learning. We employed a pre-trained model as a feature extractor to obtain useful features from tasks and decrease the task complexity. These features reduce the training difficulty in few-shot learning and increase the performance. Besides that, we further apply knowledge distillation to our framework and achieve extra performance improvement. The proposed Efficient-PrototypicalNet was evaluated on five benchmark datasets, i.e., Omniglot, miniImageNet, tieredImageNet, CIFAR-FS, and FC100. The proposed Efficient-PrototypicalNet achieved the state-of-the-art performance on most datasets in the 5-way K-shot image classification task, especially on the miniImageNet dataset.}
+  author = {Jit Yan Lim and Kian Ming Lim and Shih Yin Ooi and Chin Poo Lee}
 }
 ```
 
 ## Contacts
 For any questions, please contact: <br/>
 
-Jit Yan Lim (lim.jityan@mmu.edu.my) <br/>
-Kian Ming Lim (kmlim@mmu.edu.my)
+Jit Yan Lim (jityan95@gmail.com) <br/>
+Kian Ming Lim (Kian-Ming.Lim@nottingham.edu.cn)
 
 ## Acknowlegements
 This repo is based on **[Prototypical Networks](https://github.com/yinboc/prototypical-network-pytorch)**, **[EfficientNet](https://github.com/narumiruna/efficientnet-pytorch)**, **[MetaOptNet](https://github.com/kjunelee/MetaOptNet)**, and **[MTL](https://github.com/yaoyao-liu/meta-transfer-learning)**.

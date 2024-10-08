@@ -18,7 +18,7 @@ The code is tested on Windows 10 with Anaconda3 and following packages:
 2. [Optional] Download the original datasets and put them into corresponding folders:<br/>
     - ***mini*ImageNet**: download from https://drive.google.com/open?id=0B3Irx3uQNoBMQ1FlNXJsZUdYWEE and put in `data/miniImageNet/images` folder.
 
-    - ***tiered*ImageNet**: download from [MetaOptNet](https://github.com/kjunelee/MetaOptNet) and put in `data/tieredImageNet` folder.
+    - ***tiered*ImageNet**: download from [RFS](https://www.dropbox.com/sh/6yd1ygtyc3yd981/AABVeEqzC08YQv4UZk7lNHvya?dl=0) and put in `data/tieredImageNet` folder.
 
     - **CIFARFS**: download from [MetaOptNet](https://github.com/kjunelee/MetaOptNet) and put in `data/cifarfs` folder.
 
